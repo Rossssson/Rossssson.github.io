@@ -27,4 +27,4 @@ status:
 
 Receieved a B.Eng degree in tele-communication engineering in SCU 2021. 
 
-Recently in a paradox between struggling for a full-time MSc degree and lying(which means being satisfied with current life condition). This blog would be updated completely following my mood, mainly contains my studying experience and stuff of my life, like video game, photography, politics and so on. You can also follow my social media accont shown below.
+Recently in a paradox between struggling for a full-time MSc degree and lying(which means being satisfied with current life condition). This blog would be updated completely following my mood, mainly contains my studying experience and other stuff, like video game, photography, politics and so on. You can also follow my social media accont shown below.
