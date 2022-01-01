@@ -1,7 +1,7 @@
 ---
 title: Roson Liao
-role: 码农
-avatar_filename: dream_tradingcard.jpg
+role: Electronic factory
+avatar_filename: ""
 bio: Currently working as a computer programmer in a bank
 social:
   - icon: envelope
