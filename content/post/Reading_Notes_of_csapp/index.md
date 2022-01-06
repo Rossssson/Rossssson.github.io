@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Reading_Notes_of_csapp(2)"
+title: "Reading Notes of csapp(2)"
 subtitle: ""
-summary: ""
+summary: "reading notes of Computer Structure: a programmer's perspective "
 authors: [admin]
 tags: [Reading Notes]
 categories: [CS:app]
