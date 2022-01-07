@@ -17,7 +17,7 @@ image:
   caption: ""
   focal_point: SMART
   preview_only: false
-  filename: miku-1.jpg
+  filename: featured.jpg
 ---
 
 # 前言
