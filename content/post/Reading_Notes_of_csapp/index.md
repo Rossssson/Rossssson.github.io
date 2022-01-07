@@ -1,31 +1,23 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "Reading Notes of csapp(2)"
-subtitle: "Representing and Manipulating Information"
-summary: "reading notes of Computer Structure: a programmer's perspective "
-authors: [admin]
-tags: [Reading Notes]
-categories: [CS:app]
+title: Reading Notes of csapp(2)
+subtitle: Representing and Manipulating Information
 date: 2022-01-06T18:32:06+08:00
-lastmod: 2022-01-06T18:32:06+08:00
-featured: false
+summary: "reading notes of Computer Structure: a programmer's perspective "
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: "Image credit: [**Unsplash**](Miku-1)"
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+featured: false
+authors:
+  - admin
+lastmod: 2022-01-06T18:32:06+08:00
+tags:
+  - Reading Notes
+categories:
+  - CS:app
 projects: []
+image:
+  caption: ""
+  focal_point: SMART
+  preview_only: false
+  filename: miku-1.jpg
 ---
 
 # 前言
