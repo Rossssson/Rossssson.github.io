@@ -1,6 +1,6 @@
 ---
 title: Roson Liao
-role: Electronic factory
+role: Nanyang Technological University
 avatar_filename: ""
 bio: MSc in Nanyang Technological University
 social:
