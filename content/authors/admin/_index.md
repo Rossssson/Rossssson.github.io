@@ -2,7 +2,7 @@
 title: Roson Liao
 role: Electronic factory
 avatar_filename: ""
-bio: Currently working as a computer programmer in an electronic factory
+bio: MSc in Nanyang Technological University
 social:
   - icon: envelope
     icon_pack: fas
@@ -15,6 +15,9 @@ education:
   courses:
     - institution: SCU
       course: Tele-communication Engineering
+  courses:
+    - institution: Nanyang Technological University
+      course: Signal Processing
 email: rossssson@gmail.com
 superuser: true
 status:
@@ -22,6 +25,6 @@ status:
 ---
 > Were it benefit my country I would lay down my life, What it risks to me then?
 
-Receieved a B.Eng degree in Tele-communication engineering in SCU 2021. 
+Receieved a B.Eng degree in Tele-communication engineering in SCU 2021. 22fall MSc in Nanyang Technological University signal processing programme.
 
-Recently in a paradox between struggling for a full-time MSc degree and lying(which means being satisfied with current life condition). This blog would be updated completely following my mood, containing my studying experience and other stuff, like video game, photography, politics and so on. You can also follow my social media accont shown on the left.
+This blog would be updated completely following my mood, containing my studying experience and other stuff, like video game, photography, politics and so on. You can also follow my social media accont shown on the left.
