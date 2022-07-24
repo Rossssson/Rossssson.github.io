@@ -15,7 +15,6 @@ education:
   courses:
     - institution: SCU
       course: Tele-communication Engineering
-  courses:
     - institution: Nanyang Technological University
       course: Signal Processing
 email: rossssson@gmail.com
